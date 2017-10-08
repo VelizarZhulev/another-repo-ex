@@ -3,4 +3,5 @@ only for homework
 It's time for conflict!
 I am making changes!
 We resolved the conflict!
-Edit and merge!
+Branch exercise!
+Merje conflict resolved!
