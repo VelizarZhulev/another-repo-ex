@@ -6,3 +6,4 @@ We resolved the conflict!
 Branch exercise!
 Merje conflict resolved!
 More conflicts!
+And resolve?
